@@ -1,4 +1,4 @@
-Welcome. My repositories consist of projects in regards to the realm of data engineering, ML & AI tools/tech. Please take a look around.
+Welcome. My projects aim to reflect my experience in the realm of everything programming, data, ML & AI tools/tech. Please take a look around.
 You can contact me directly via email at tjromack@gmail.com for any reason.
 
 <!---
