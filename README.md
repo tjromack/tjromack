@@ -1,5 +1,5 @@
-Welcome. My projects aim to reflect my experience in the realm of everything programming, data, ML & AI tools/tech. Please take a look around.
-You can contact me directly via email at tjromack@gmail.com for any reason.
+Welcome. My projects aim to reflect my exploration in the realm of programming, data, and everything in between. Please take a look around.
+You may contact me directly at tjromack@gmail.com for any reason.
 
 <!---
 tjromack/tjromack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
