@@ -1,4 +1,4 @@
-Welcome. My projects aim to reflect my exploration in the realm of programming, data, and everything in between. Please take a look around.
+Welcome. My github will contain various projects relating to the world of programming, data, AI, and much more.
 You may contact me directly at tjromack@gmail.com for any reason.
 
 <!---
