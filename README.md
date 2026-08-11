@@ -1,4 +1,4 @@
-tjromack@gmail.com
+tjromack@gmail.com - please reach out for any questions, inquiries.
 
 <!---
 tjromack/tjromack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
