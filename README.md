@@ -5,9 +5,10 @@ I build AI people **trust in production** — grounded, cited, and safe on sensi
 **▶️ Try my flagship, live: [Suver](https://suver-demo.onrender.com)** — a governed AI tool hub that *removes the prompt*. Pick a tool, bring your input, get a cited result. 13 tools, cite-or-abstain, and a **measured 20/20 trust eval: 0 hallucinations, 0 fabrications.**
 
 **What I do**
-- 🧩 Build trustworthy AI products — RAG · grounding & citation · evals · guardrails · sanitize-before-egress
-- 🚀 Ship them end-to-end — accounts, usage guardrails, Docker, a live public demo
-- 📈 Drive adoption — designed the Claude training curriculum now recommended across my company (100+ users)
+🔍 Identify — spot where AI and software can actually move a workflow, then build the highest-leverage tool for it
+🧩 Build — trustworthy AI products: RAG · grounding & citation · evals · guardrails · sanitize-before-egress
+🚀 Ship — end-to-end: accounts, usage guardrails, Docker, a live public demo
+📈 Drive adoption — guide people in putting the right tools into their day-to-day workflow (training curriculum + role-by-role discovery)
 
 **Featured work**
 - **[project-suver](https://github.com/tjromack/project-suver)** — the flagship AI tool hub *(live demo above)*
