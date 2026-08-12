@@ -1,6 +1,6 @@
 ### Hi, I'm Trevor 👋 — applied-AI builder
 
-I build AI people **trust in production** — grounded, cited, and safe on sensitive data — and I help organizations **adopt** it.
+I build intelligent tools that people **trust in production** — grounded, cited, and safe on sensitive data — and I help organizations **adopt** it.
 
 **▶️ Try my flagship, live: [Suver](https://suver-demo.onrender.com)** — a governed AI tool hub that *removes the prompt*. Pick a tool, bring your input, get a cited result. 13 tools, cite-or-abstain, and a **measured 20/20 trust eval: 0 hallucinations, 0 fabrications.**
 
