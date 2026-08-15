@@ -20,4 +20,6 @@ I build intelligent tools that people can **trust in production** — grounded, 
 
 Open to **Forward Deployed Engineer · AI Engineer · AI Adoption** roles.
 
+Not everything I build is on this list — happy to talk about the side projects too, or about whatever you're building.
+
 📫 **tjromack@gmail.com** · [LinkedIn](https://linkedin.com/in/tjromack) · Chicago, IL
