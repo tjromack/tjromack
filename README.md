@@ -18,7 +18,7 @@ I build intelligent tools that people can **trust in production** — grounded, 
 - **[agentic-workflow-orchestrator](https://github.com/tjromack/agentic-workflow-orchestrator)** — an AI agent with guardrails + a human checkpoint before anything finalizes
 - **[llm-eval-guardrails-harness](https://github.com/tjromack/llm-eval-guardrails-harness)** — test LLM systems like software: golden + adversarial sets, CI gating
 
-Open to **Forward Deployed Engineer · AI Engineer · AI Adoption** roles.
+Open to **Technical PM** · **Forward Deployed Engineer · AI Engineer · AI Adoption** roles.
 
 Not everything I build is on this list — happy to talk about the side projects too, or about whatever you're building.
 
