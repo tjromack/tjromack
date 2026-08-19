@@ -1,4 +1,4 @@
-### Hi, I'm Trevor 👋 — applied-AI builder
+### Hi, I'm Trevor 👋 — Technical PM & Builder
 
 I build intelligent tools that people can **trust in production** — grounded, cited, and safe on sensitive data — and I help organizations **adopt** it.
 
