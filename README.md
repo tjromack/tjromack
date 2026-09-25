@@ -24,7 +24,7 @@ Everything below ships with a way to check it — a labelled set, a holdout writ
   Grades an LLM system with deterministic rule checks and a calibrated judge — and validates itself before it grades anything else.
   <sub>**Verified:** judge calibrated against human labels; an injected break proven caught.</sub>
 
-- **[Payment-Integrity Claims Reviewer](https://github.com/tjromack/payment-integrity-reviewer)** [case study](https://tjromack.com/work/payment-integrity-reviewer/) · [Live demo: Reviewer](https://payment-integrity-reviewer.onrender.com)
+- **[Payment-Integrity Claims Reviewer](https://github.com/tjromack/payment-integrity-reviewer)** · [case study](https://tjromack.com/work/payment-integrity-reviewer/) · [Live demo: Reviewer](https://payment-integrity-reviewer.onrender.com)
   Rules detect, an LLM explains each flag grounded in the rule that fired, and a human approves, dismisses, or escalates. Synthetic claims only.
   <sub>**Verified:** detector scored on a holdout written to break it.</sub>
 
